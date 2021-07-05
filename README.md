@@ -21,7 +21,7 @@ To use, complete the config file with the different entries:
 
 After, on a console, just run 
 ```
-usage: python3 doctolib.py 
+python3 doctolib.py 
 ```
 
 # To run in the background
